@@ -152,4 +152,3 @@ The dataset contains information about products sold across multiple Big Mart ou
 ## 🏁 Conclusion
 
 This project demonstrates how **XGBoost Regression** can accurately predict **Big Mart product sales** using product and outlet information. It walks through every stage of the machine learning pipeline—from data preprocessing and feature engineering to model training, evaluation, and prediction—making it an excellent project for learning regression on real-world business data.
-
